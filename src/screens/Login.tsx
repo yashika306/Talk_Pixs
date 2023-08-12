@@ -22,6 +22,7 @@ const Login: React.FC<Props> = ({navigation: {navigate}}) => {
             navigate("Home");
         }).catch((error)=>console.log(error.message))
     }
+    console.log('Helo')
   return (
       <SafeAreaView>
       <View style={{padding:20}}>   
