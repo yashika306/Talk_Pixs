@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "973972912634",
+    "project_id": "talkpix-bf9f6",
+    "storage_bucket": "talkpix-bf9f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973972912634:android:a4cc5d85805cb822a88c43",
+        "android_client_info": {
+          "package_name": "com.TalkPix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973972912634-5gsk4oahjcl66dvqqmeclhiss7n5lhjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlhjJfybctW-mrJnZ4pE5LbsZM6cMj8lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973972912634-5gsk4oahjcl66dvqqmeclhiss7n5lhjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973972912634:android:9d9d22ddf7464f97a88c43",
+        "android_client_info": {
+          "package_name": "com.talkpix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973972912634-5gsk4oahjcl66dvqqmeclhiss7n5lhjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlhjJfybctW-mrJnZ4pE5LbsZM6cMj8lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973972912634-5gsk4oahjcl66dvqqmeclhiss7n5lhjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
